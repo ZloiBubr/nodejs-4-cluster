@@ -1,0 +1,15 @@
+{
+	"core" :
+	{
+		"mongo" : 
+		{
+			"host"		: "localhost",
+			"port"		: 27017,
+			"db"		: "enterprise_p"
+		},
+		"server" :
+		{
+			"port"		: 3000
+		}
+	}
+}
