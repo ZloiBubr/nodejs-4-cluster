@@ -12,11 +12,15 @@ Welcome to Siarhei Hladkou examples.
 SETUP
 ------------
 1. download copy of files
-2. run cluser with
+2. restore node modules with
+```
+	$ npm install
+```
+3. run cluser with
 ```
 	$ node cluster.js
 ```
-3. run single thread with
+4. run single thread with
 ```
     $ node app.js
 ```
